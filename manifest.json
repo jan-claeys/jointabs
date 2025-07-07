@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Join ",
+  "name": "Merge tabs",
   "version": "1.0",
   "description": "Combine all tabs into a single window",
   "icons": {
